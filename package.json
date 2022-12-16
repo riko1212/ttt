@@ -2,10 +2,10 @@
   "name": "mimino-group-3",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://luckyjuse.github.io/mimino-group-3",
+  "homepage": "https://riko1212.github.io/ttt",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /mimino-group-3/"
+    "build": "parcel build src/*.html --public-url /ttt/"
   },
   "repository": {
     "type": "git",
